@@ -7,7 +7,7 @@
 ## 📖 Introduction
 
 <p align="center">
-<img src="assets/frameworks_comparison.png" width=50%>
+<img src="assets/frameworks_comparison.png" width=60%>
 <p>
 
 We present LatentSync, an end-to-end lip sync framework based on audio conditioned latent diffusion models without any intermediate motion representation, diverging from previous diffusion-based lip sync methods based on pixel space diffusion or two-stage generation. Our framework can leverage the powerful capabilities of Stable Diffusion to directly model complex audio-visual correlations.
@@ -32,4 +32,5 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
 ## 📑 Open-Source Plan
 
 - [ ] Inference code and checkpoints
+- [ ] Data processing pipeline
 - [ ] Training code
