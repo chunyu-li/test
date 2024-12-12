@@ -80,7 +80,7 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
     <td width=100px>
       <video src=https://github.com/user-attachments/assets/d08287ad-48c1-4bc3-8c8f-a333cf57f5fa controls preload></video>
     </td>
-    <td>
+    <td width=100px>
       <video src=https://github.com/user-attachments/assets/872525ef-bac4-44d1-9ecf-d51928b3aaf5 controls preload></video>
     </td>
   </tr>
