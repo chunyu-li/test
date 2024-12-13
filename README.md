@@ -27,7 +27,7 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/03e95555-39c5-4e46-8df3-69d24a95c84e controls preload></video>
+      <video src=./demo1_video.mp4 controls preload></video>
     </td>
     <td>
       <video src=https://github.com/user-attachments/assets/122f7678-cc13-46f6-890b-c50a198548df controls preload></video>
