@@ -6,6 +6,8 @@
 
 </div>
 
+https://github.com/bytedance/LatentSync/assets/f5804101-ea20-42eb-8d92-2e8a542d6b97
+
 ## 📖 Introduction
 
 <p align="center">
