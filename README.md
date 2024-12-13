@@ -1,7 +1,9 @@
 # LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync
 
 <div align="center">
+
 [![arXiv](https://img.shields.io/badge/arXiv_paper-2412.09262-b31b1b)](https://arxiv.org/abs/2412.09262)
+
 </div>
 
 ## 📖 Introduction
