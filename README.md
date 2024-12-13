@@ -14,47 +14,6 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
 
 ## Demo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
         <td width="50%"><b>Original video</b></td>
@@ -62,18 +21,18 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/89b02797-457c-4510-8dfb-8d10ffac76d2 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/03e95555-39c5-4e46-8df3-69d24a95c84e controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/5c4cf5e3-a52b-453a-a977-615043fd681c controls preload></video>
+      <video src=https://github.com/user-attachments/assets/122f7678-cc13-46f6-890b-c50a198548df controls preload></video>
     </td>
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/78cd1df3-c15b-492f-bc4a-b88615266d73 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/f5804101-ea20-42eb-8d92-2e8a542d6b97 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/c7781efa-1179-4fed-9193-791af9990af2 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/e701cebd-12b6-4751-97cb-6b45e6c0036a controls preload></video>
     </td>
   </tr>
   <tr>
@@ -94,21 +53,15 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/c19951b5-57d4-44f6-aa48-9f92fc0da3df controls preload></video>
+      <video src=https://github.com/user-attachments/assets/3732d784-e86f-43e3-964a-eb5a01a55e78 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/445baf69-b0f6-4b83-9996-c4d7622672fc controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/ec09f42f-257f-4ee6-b922-be4931320ebc controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/40f83cda-ded5-467c-a586-022ae9d3e427 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/03540ae6-e75d-4314-aaaa-bdc886ecc466 controls preload></video>
     </td>
   </tr>
 </table>
+
+(Photorealistic videos are filmed by licensed models, and anime videos are from [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/) and [EMO](https://humanaigc.github.io/emote-portrait-alive/))
 
 ## 📑 Open-Source Plan
 
