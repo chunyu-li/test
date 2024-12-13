@@ -8,6 +8,8 @@
 
 https://github.com/bytedance/LatentSync/assets/163980830/f5804101-ea20-42eb-8d92-2e8a542d6b97
 
+https://github.com/TMElyralab/MuseTalk/assets/163980830/1568f604-a34f-4526-a13a-7d282aa2e773
+
 ## 📖 Introduction
 
 <p align="center">
