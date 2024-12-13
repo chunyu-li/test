@@ -61,7 +61,7 @@ We present LatentSync, an end-to-end lip sync framework based on audio condition
   </tr>
 </table>
 
-(Photorealistic videos are filmed by licensed models, and anime videos are from [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/) and [EMO](https://humanaigc.github.io/emote-portrait-alive/))
+(Photorealistic videos are filmed by contracted models, and anime videos are from [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/) and [EMO](https://humanaigc.github.io/emote-portrait-alive/))
 
 ## 📑 Open-Source Plan
 
